@@ -1,7 +1,4 @@
 # Computer Vision Assignment: Smartphone Camera Technology Comparison and MNIST Digit Recognition
-
-![Camera Technology](images/photo1.jpeg)
-
 This repository contains two computer vision assignments. The first assignment compares two cutting-edge smartphone camera technologies: Apple's Deep Fusion and Samsung's Adaptive Tetra-squared Pixel Sensor. The second assignment focuses on MNIST digit recognition using transfer learning with pre-trained models.
 
 ## Assignment 1: Smartphone Camera Technology Comparison
